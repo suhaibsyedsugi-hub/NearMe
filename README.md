@@ -48,10 +48,12 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-10-08 201153.png>)
-![alt text](<Screenshot 2025-10-08 201345.png>)
-![alt text](<Screenshot 2025-10-08 201543.png>)
-![alt text](<Screenshot 2025-10-08 201641.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 152329" src="https://github.com/user-attachments/assets/2499838a-bb68-4443-98bc-821fbc387a73" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 152534" src="https://github.com/user-attachments/assets/6c5bdfd3-781d-4296-95b6-35f70aaa1e68" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 152515" src="https://github.com/user-attachments/assets/3a47a2ed-cbd0-4d68-b9a5-340d4503f091" />
+<img width="1323" height="757" alt="Screenshot 2025-10-08 152551" src="https://github.com/user-attachments/assets/2d50649d-6605-457f-996c-1dd6d5a382ce" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 152636" src="https://github.com/user-attachments/assets/0ba224c6-9da7-4629-b5f4-b1aa67b87cf8" />
+
 
 
 
